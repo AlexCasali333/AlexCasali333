@@ -6,4 +6,5 @@
  ♨️ Currently developing Java for Obsilion Network<br/>
 
 <!-- Github Stats -->
-[![Alex's GitHub stats](https://stats-git-master-alexs-projects-5c1806b7.vercel.app/api?username=alexcasali333&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex333 stats](https://stats-git-master-alexs-projects-5c1806b7.vercel.app/api?username=alexcasali333&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Alex333 badges](https://github-profile-trophy.vercel.app/?username=alexcasali333&theme=radical)
